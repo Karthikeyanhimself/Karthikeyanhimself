@@ -7,7 +7,7 @@
 # Hi, I’m Karthikeyan Reddy!
 **Student | Coder | Storyteller**
 
-![Anime Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFjNjQxYjBkM2QxY2RmYzE4NmY2ZTc2ZWI4NTI3OTc5YmQ2MmQxMCZjdD1n/5GoVLqeAOo6PK/giphy.gif)
+![Anime Banner]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dwbG1vNHh5dW5hMDBwb3IydHp1NGF0eGw5MWY3b2V4OTRqNm1kMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBHiPhgJeaNAk/giphy.gif])
 
 </div>
 
