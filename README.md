@@ -7,7 +7,9 @@
 # Hi, I’m Karthikeyan Reddy!
 **Student | Coder | Storyteller**
 
-![Anime Banner]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dwbG1vNHh5dW5hMDBwb3IydHp1NGF0eGw5MWY3b2V4OTRqNm1kMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBHiPhgJeaNAk/giphy.gif])
+<br>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dwbG1vNHh5dW5hMDBwb3IydHp1NGF0eGw5MWY3b2V4OTRqNm1kMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBHiPhgJeaNAk/giphy.gif" alt="Anime Banner" width="400"/>
 
 </div>
 
