@@ -7,6 +7,11 @@
 # Hi, I’m Karthikeyan Reddy!
 **Student | Coder | Storyteller**
 
+> *"If you can, run; if not, walk; and if that’s also not possible, crawl! But never stay stuck in the same place without moving."* - Sri Sri
+
+> **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |  
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||**
+
 <br>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dwbG1vNHh5dW5hMDBwb3IydHp1NGF0eGw5MWY3b2V4OTRqNm1kMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBHiPhgJeaNAk/giphy.gif" alt="Anime Banner" width="400"/>
@@ -88,8 +93,5 @@ React | Next.js | MySQL | Git
 ---
 
 <div align="center">
-
-> “Creativity is intelligence having fun.” – Albert Einstein  
-> *Let’s connect, collaborate, and build something amazing together!*
 
 </div>
