@@ -62,7 +62,6 @@ React | Next.js | MySQL | Git
 - **Music:** Everything from classical, pop, rap, jazz, punk, electronic, phonk—if it soothes my ears, it’s on my playlist!
 - **Writing:** Introspective stories & dialogues inspired by my own emotions.
 - **Anime** and **Movies**
-- *Frankly, my dear, I don't give a damn (Gone with the Wind)*
 
 <div align="center">
   
